@@ -63,7 +63,21 @@ body, html {
 #footer p{
 	color: white;
 	font-size: 0.6em;
+	text-shadow: 1px 1px 1px #000;
 }
+
+#footer h2{
+	color: white;
+	font-size: 0.9em;
+	text-shadow: 1px 1px 1px #000;
+	margin-bottom: -5px;
+}
+
+status{
+	color:red;
+}
+
+
 .buttons *{
 	position: fixed;
 	top: 10;
